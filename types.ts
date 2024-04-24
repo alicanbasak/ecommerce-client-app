@@ -22,7 +22,7 @@ export interface Product {
   isSale: boolean;
   size: Size;
   color: Color;
-  desription: string;
+  description: string;
   images: Image[];
 }
 

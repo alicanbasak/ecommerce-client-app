@@ -47,7 +47,7 @@ const products: Product[] = [
       },
     ],
     slug: "ayakkabi-1",
-    desription:
+    description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies,purus odio aliquet nunc, nec tristique nunc libero nec dolor. Sed vel neque in tellus euismod tincidunt. Nullam auctor, nunc nec ultricies ultricies,purus odio aliquet nunc, nec tristique nunc libero nec dolor. Sed vel neque in tellus euismod tincidunt.",
   },
   {
@@ -95,7 +95,7 @@ const products: Product[] = [
       },
     ],
     slug: "ayakkabi-2",
-    desription:
+    description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies,purus odio aliquet nunc, nec tristique nunc libero nec dolor. Sed vel neque in tellus euismod tincidunt. Nullam auctor, nunc nec ultricies ultricies,purus odio aliquet nunc, nec tristique nunc libero nec dolor. Sed vel neque in tellus euismod tincidunt.",
   },
   {
@@ -143,7 +143,7 @@ const products: Product[] = [
       },
     ],
     slug: "ayakkabi-3",
-    desription:
+    description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies,purus odio aliquet nunc, nec tristique nunc libero nec dolor. Sed vel neque in tellus euismod tincidunt. Nullam auctor, nunc nec ultricies ultricies,purus odio aliquet nunc, nec tristique nunc libero nec dolor. Sed vel neque in tellus euismod tincidunt.",
   },
   {
@@ -191,7 +191,7 @@ const products: Product[] = [
       },
     ],
     slug: "ayakkabi-4",
-    desription:
+    description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies,purus odio aliquet nunc, nec tristique nunc libero nec dolor. Sed vel neque in tellus euismod tincidunt. Nullam auctor, nunc nec ultricies ultricies,purus odio aliquet nunc, nec tristique nunc libero nec dolor. Sed vel neque in tellus euismod tincidunt.",
   },
 ];

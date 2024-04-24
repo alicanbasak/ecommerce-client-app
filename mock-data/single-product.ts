@@ -31,14 +31,17 @@ const product: Product = {
     {
       id: 1,
       url: "/images/products/air-jordan-1-retro-high-og-1.jpg",
+      alt: "Air Jordan 1 Retro High OG",
     },
     {
       id: 2,
       url: "/images/products/air-jordan-1-retro-high-og-2.jpg",
+      alt: "Air Jordan 1 Retro High OG",
     },
     {
       id: 3,
       url: "/images/products/air-jordan-1-retro-high-og-3.jpg",
+      alt: "Air Jordan 1 Retro High OG",
     },
   ],
 };
